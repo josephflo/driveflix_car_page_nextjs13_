@@ -1,6 +1,6 @@
 import { CarCard, CustomFilter, Heroe, SearchBar, ShowMore } from '@/components'
 import { fuels, yearsOfProduction } from '@/constants';
-import { HomeProps, IHomeProps } from '@/types';
+import { IHomeProps } from '@/types';
 import { fetchCars } from '@/utils'
 
 export default async function Home({ searchParams}:IHomeProps ) {
