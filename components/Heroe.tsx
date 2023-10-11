@@ -4,7 +4,15 @@ import { CustomButton } from ".";
 
 const Heroe = () => {
   //HandleButton
-  const handleScroll = () => {};
+  const handleScroll = () => {
+    const nextSection = document.getElementById("explore");
+
+    if(nextSection){
+      nextSection.scrollIntoView({behavior: "smooth"})
+    }
+  };
+
+
   return (
     <div className="hero">
       <div className="flex-1 pt-36 padding-x">
