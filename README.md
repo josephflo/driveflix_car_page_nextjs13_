@@ -14,4 +14,4 @@ Here's a glimpse of what you'll find in this project::
 - Adopt clean code principles.
 
 ## Now, let's hit the road with Driveflix and explore the future of car rental experiences!
-⭐ Visit our deployed page: [Driveflix] (https://driveflix.vercel.app/)https://driveflix.vercel.app/
+⭐ Visit our deployed page: [Driveflix ](https://driveflix.vercel.app/)https://driveflix.vercel.app/
