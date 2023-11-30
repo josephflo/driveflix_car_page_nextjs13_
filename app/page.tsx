@@ -28,7 +28,7 @@ export default async function Home({ searchParams }: IHomeProps) {
       <div className="mt-12 padding-x padding-y max-width" id="explore">
         <div className="home__text-container">
           <h1 className="text-4xl font-extrabold"> Car Catalogue</h1>
-          <p>Explore the cars you might like</p>
+          <p>Choose the manufacturer and model, then search.</p>
         </div>
 
         <div className="home__filters">
